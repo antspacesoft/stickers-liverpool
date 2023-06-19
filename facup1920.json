@@ -1,0 +1,18 @@
+{
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.liverpool",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "facup2020m32",
+      "name": "vs Aston Villa",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "facup2019",
+      "name": "Pack FA Cup 2019",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    }
+  ]
+}

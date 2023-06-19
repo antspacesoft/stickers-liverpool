@@ -1,0 +1,120 @@
+{
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.liverpool",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "ufcl2122prefinal",
+      "name": "Paris 2022",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "ufcl2122store",
+      "name": "UCL 21-22 Store",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "ufcl2122s2a1",
+      "name": "vs Villareal (4)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "ufcl2122s2",
+      "name": "vs Villareal (3)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122s1",
+      "name": "vs Villareal (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122s1a1",
+      "name": "vs Villareal (2)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "ufcl2122c2",
+      "name": "vs Benfica (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122c1a1",
+      "name": "vs Benfica (2)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "ufcl2122c1",
+      "name": "vs Benfica (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122o2",
+      "name": "vs Inter (2)",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "ufcl2122o1",
+      "name": "vs Inter (1)",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "ufcl2122o1a1",
+      "name": "vs Inter (2)",
+      "animated_sticker_pack": true,
+      "stickers": "6"
+    },
+    {
+      "identifier": "ufcl2122gp6",
+      "name": "vs Milan (2)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "ufcl2122gp5a1",
+      "name": "vs Porto (3)",
+      "animated_sticker_pack": true,
+      "stickers": "5"
+    },
+    {
+      "identifier": "ufcl2122gp5",
+      "name": "vs Porto (2)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "ufcl2122gp4",
+      "name": "vs Atletico Madrid (2)",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "ufcl2122gp3",
+      "name": "vs Atletico Madrid (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122gp2",
+      "name": "vs Porto (1)",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "ufcl2122gp1",
+      "name": "vs Milan (1)",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    }
+  ]
+}

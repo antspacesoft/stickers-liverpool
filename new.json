@@ -1,0 +1,1692 @@
+{
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.liverpool",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "alexismacallister1",
+      "name": "Alexis Mac Allister",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "premier2223m36a",
+      "name": "vs Leicester (1)",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "premier2223m36b",
+      "name": "vs Leicester (2)",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "premier2223m35",
+      "name": "vs Brentford",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "kit2324a",
+      "name": "Home Kit 23-24",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "premier2223m28",
+      "name": "vs Fulham",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "premier2223m34a",
+      "name": "vs Tottenham (1)",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "premier2223m34b",
+      "name": "vs Tottenham (2)",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "premier2223m33",
+      "name": "vs West Ham",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "premier2223m32a",
+      "name": "vs Nottingham (1)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "premier2223m32b",
+      "name": "vs Nottingham (2)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "premier2223m31a",
+      "name": "vs Leeds (1)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "premier2223m31b",
+      "name": "vs Leeds (2)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "premier2223m30",
+      "name": "vs Arsenal",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "premier2223m26a",
+      "name": "vs Manchester United (1)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "premier2223m26b",
+      "name": "vs Manchester United (2)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "premier2223m26a1",
+      "name": "vs Manchester United (3)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "premier2223m26a2",
+      "name": "vs Manchester United (4)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "premier2223m7",
+      "name": "vs Wolves",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "premier2223m24a",
+      "name": "vs Newcastle (1)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "premier2223m24b",
+      "name": "vs Newcastle (2)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "premier2223m23",
+      "name": "vs Everton",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "facup23f32",
+      "name": "vs Wolves",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "newyear3",
+      "name": "Happy New Year (3)",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "newyear2",
+      "name": "Happy New Year (2)",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "newyear1",
+      "name": "Happy New Year (1)",
+      "animated_sticker_pack": false,
+      "stickers": "9"
+    },
+    {
+      "identifier": "premier2223m18",
+      "name": "vs Leicester",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "premier2223m17",
+      "name": "vs Aston Villa",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "christmas3",
+      "name": "Merry Christmas (3)",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "christmas2",
+      "name": "Merry Christmas (2)",
+      "animated_sticker_pack": false,
+      "stickers": "9"
+    },
+    {
+      "identifier": "christmas",
+      "name": "Merry Christmas (1)",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "worldcup2022o4a",
+      "name": "England vs Senegal (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022o4b",
+      "name": "England vs Senegal (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GBwalesvsengland",
+      "name": "England vs Wales",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GBenglandvsusa",
+      "name": "England vs USA",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GBenglandvsiran",
+      "name": "England vs Iran",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022england2",
+      "name": "World Cup England 1",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "worldcup2022england3",
+      "name": "World Cup England 2",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "worldcup2022jordanhenderson",
+      "name": "Jordan Henderson",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "worldcup2022trentalexanderarnold",
+      "name": "Trent Alexander Arnold",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "premier2223m16a",
+      "name": "vs Southampton (1)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "premier2223m16b",
+      "name": "vs Southampton (2)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "eflcup2223f16",
+      "name": "vs Derby County",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "premier2223m15a",
+      "name": "vs Tottenham (1)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "premier2223m15b",
+      "name": "vs Tottenham (2)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "ufcl2223gp6",
+      "name": "vs Napoli",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "ufcl2223gp5a",
+      "name": "vs Ajax (1)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "ufcl2223gp5b",
+      "name": "vs Ajax (2)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "premier2223m12a",
+      "name": "vs West Ham (1)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "premier2223m12b",
+      "name": "vs West Ham (2)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "premier2223m11",
+      "name": "vs Manchester City",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "ufcl2223gp4a",
+      "name": "vs Rangers (3)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "ufcl2223gp4b",
+      "name": "vs Rangers (2)",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "ufcl2223gp3",
+      "name": "vs Rangers (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "premier2223m9",
+      "name": "vs Brighton",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "stevemcmanaman1",
+      "name": "Steve Mc Manaman 1",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "sadiomane3",
+      "name": "Sadio Mane 3",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "robbiefowler2",
+      "name": "Robbie Fowler 2",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "michaelowen1",
+      "name": "Michael Owen 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "kennydalglish1",
+      "name": "Kenny Dalglish 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "johnbarnes1",
+      "name": "John Barnes 1",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "ianrush1",
+      "name": "Ian Rush 1",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "fernandotorres2",
+      "name": "Fernando Torres 2",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "ufcl2223gp2",
+      "name": "vs Ajax",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "premier2223m6",
+      "name": "vs Everton",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "premier2223m5a",
+      "name": "vs Newcastle (1)",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "premier2223m5b",
+      "name": "vs Newcastle (2)",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "premier2223m4c",
+      "name": "vs Bournemouth (4)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "premier2223m4b",
+      "name": "vs Bournemouth (3)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "premier2223m4a1",
+      "name": "vs Bournemouth (2)",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "premier2223m4",
+      "name": "vs Bournemouth (1)",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "xabialonso1",
+      "name": "Xabi Alonso 1",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "stevengerrard1",
+      "name": "Steven Gerrard 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "luissuarez2",
+      "name": "Luis Suarez 2",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "jordanhenderson3",
+      "name": "Jordan Henderson 3",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "iancallaghan1",
+      "name": "Ian Callaghan 1",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "graemesouness1",
+      "name": "Graeme Souness 1",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "alanhansen1",
+      "name": "Alan Hansen",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "alissonbecker3",
+      "name": "Alisson Becker",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "jamiecarragher1",
+      "name": "Jamie Carragher",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "jerzydudek1",
+      "name": "Jerzy Dudek",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "pepereina1",
+      "name": "Pepe Reina",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "philneal1",
+      "name": "Phil Neal",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "rayclemence1",
+      "name": "Ray Clemence",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "virgilvandijk3",
+      "name": "Virgil van Dijk",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "team2023",
+      "name": "Team 2023",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "premier2223m2",
+      "name": "vs Crystal Palace",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "premier2223m1",
+      "name": "vs Fulham",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "robbiefowler1",
+      "name": "Robbie Fowler",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "facommunityshield22f2",
+      "name": "vs Manchester City 2",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "facommunityshield22f1",
+      "name": "vs Manchester City",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "homekit2223",
+      "name": "Home Kit 22-23",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "darwinnunez",
+      "name": "Darwin Nuñez",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "luissuarez1",
+      "name": "Luis Suarez",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "fernandotorres1",
+      "name": "Fernando Torres",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122prefinal",
+      "name": "Paris 2022",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "jerseys1",
+      "name": "Jerseys",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "ufcl2122store",
+      "name": "UCL 21-22 Store",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "premier2122m38",
+      "name": "vs Wolves",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "premier2122m37",
+      "name": "vs Southampton (1)",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "premier2122m37a1",
+      "name": "vs Southampton (2)",
+      "animated_sticker_pack": true,
+      "stickers": "7"
+    },
+    {
+      "identifier": "facup2122w3",
+      "name": "FA Cup Winner (5)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "facup2122wa1",
+      "name": "FA Cup Winner (1)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "facup2122wa2",
+      "name": "FA Cup Winner (2)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "facup2122w1",
+      "name": "FA Cup Winner (3)",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "facup2122w2",
+      "name": "FA Cup Winner (4)",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "facup2122f1",
+      "name": "Final vs Chelsea",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "tylermorton1",
+      "name": "Tyler Morton",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "thiagoalcantara3",
+      "name": "Thiago Alcantara 3",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "kaidegordon1",
+      "name": "Kaide Gordon",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "jordanhenderson2",
+      "name": "Jordan Henderson",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "joelmatip2",
+      "name": "Joel Matip 2",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "joegomez1",
+      "name": "Joe Gomez",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "jamesmillner1",
+      "name": "James Millner",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "harveyelliott1",
+      "name": "Harvey Elliott",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "curtisjones1",
+      "name": "Curtis Jones",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "caoimhinkelleher1",
+      "name": "Caoimhin Kelleher",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "andrewrobertson1",
+      "name": "Andrew Robertson",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "adrian1",
+      "name": "Adrian",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "trentalexanderarnold1",
+      "name": "Trent Alexander-Arnold",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "sadiomane2",
+      "name": "Sadio Mane 2",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "nabykeita1",
+      "name": "Naby Keita",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "jurgenklopp1",
+      "name": "Jurgen Klopp",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "ibrahimakonate1",
+      "name": "Ibrahima Konate",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "fabinho1",
+      "name": "Fabinho",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "divockorigi1",
+      "name": "Divock Origi",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "diogojota2",
+      "name": "Diogo Jota 2",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "alexoxladechamberlain1",
+      "name": "Alex Oxlade-Chamberlain",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "mohamedsalah2",
+      "name": "Mohammed Salah 2",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "virgilvandijk2",
+      "name": "Virgil Van Dijk 2",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "alissonbecker2",
+      "name": "Alisson Becker 2",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "robertofirmino3",
+      "name": "Roberto Firmino 3",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "takumiminamino2",
+      "name": "Takumi Minamino 2",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "kostastsimikas1",
+      "name": "Kostas Tsimikas",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "luisdiaz2",
+      "name": "Luis Diaz 2",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "premier2122m33",
+      "name": "vs Aston Villa",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "premier2122m36",
+      "name": "vs Tottenham",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "emojis1",
+      "name": "Emojis 1",
+      "animated_sticker_pack": false,
+      "stickers": "11"
+    },
+    {
+      "identifier": "ufcl2122s2a1",
+      "name": "vs Villareal (4)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "ufcl2122s2",
+      "name": "vs Villareal (3)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "playersa5",
+      "name": "Players 5",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "playersa6",
+      "name": "Players 6",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "premier2122m35",
+      "name": "vs Newcastle",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122s1",
+      "name": "vs Villareal (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122s1a1",
+      "name": "vs Villareal (2)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "premier2122m34",
+      "name": "vs Everton (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "premier2122m34a1",
+      "name": "vs Everton (2)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "merseysidederby1",
+      "name": "Merseyside Derby",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "premier2122m30",
+      "name": "vs Manchester United",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "premier2122m30a1",
+      "name": "vs Manchester United (1)",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "facup2122s1",
+      "name": "vs City (1)",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "facup2122sa1",
+      "name": "vs City (2)",
+      "animated_sticker_pack": true,
+      "stickers": "8"
+    },
+    {
+      "identifier": "happyeaster1",
+      "name": "Happy Easter",
+      "animated_sticker_pack": false,
+      "stickers": "11"
+    },
+    {
+      "identifier": "ufcl2122c2",
+      "name": "vs Benfica (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "premier2122m32",
+      "name": "vs Manchester City",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "ufcl2122c1a1",
+      "name": "vs Benfica (2)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "ufcl2122c1",
+      "name": "vs Benfica (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "premier2122m31",
+      "name": "vs Watford",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "takumiminamino1",
+      "name": "Takumi Minamino",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "jordanhenderson1",
+      "name": "Jordan Henderson 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "andyrobertson1",
+      "name": "Andy Robertson",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "thiagoalcantara2",
+      "name": "Thiago Alcantara 2",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "joelmatip1",
+      "name": "Joel Matip 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "sadiomane1",
+      "name": "Sadio Mane 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "alissonbecker1",
+      "name": "Alisson Becker 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "diogojota1",
+      "name": "Diogo Jota",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "robertofirmino2",
+      "name": "Roberto Firmino 2",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "robertofirmino1",
+      "name": "Roberto Firmino 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "facup2122f4",
+      "name": "vs Nottingham",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "premier2122m27",
+      "name": "vs Arsenal",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "premier2122m29",
+      "name": "vs Brighton (1)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "premier2122m29a1",
+      "name": "vs Brighton (2)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "club3",
+      "name": "Club (3)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "club4",
+      "name": "Club (4)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "virgilvandijk1",
+      "name": "Virgil van Dijk 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122o2",
+      "name": "vs Inter (2)",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "premier2122m28",
+      "name": "vs West Ham",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "alexanderarnold1",
+      "name": "Alexander Arnold",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "facup2122f8",
+      "name": "vs Norwich",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "players2122",
+      "name": "Players 2022",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "eflcup2122w3",
+      "name": "EFL Champions (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "eflcup2122a1",
+      "name": "EFL Champions (3)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "eflcup2122a2",
+      "name": "EFL Champions (4)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "eflcup2122w2",
+      "name": "EFL Champions (1)",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "eflcup2122w1",
+      "name": "vs Chelsea",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "premier2122m19",
+      "name": "vs Leeds",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "premier2122m26",
+      "name": "vs Norwich (1)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "premier2122m26a1",
+      "name": "vs Norwich (2)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "kloppa1c",
+      "name": "Klopp (3)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "ufcl2122o1",
+      "name": "vs Inter (1)",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "ufcl2122o1a1",
+      "name": "vs Inter (2)",
+      "animated_sticker_pack": true,
+      "stickers": "6"
+    },
+    {
+      "identifier": "premier2122m25",
+      "name": "vs Burnley",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "14febrero",
+      "name": "Happy Valentine",
+      "animated_sticker_pack": false,
+      "stickers": "8"
+    },
+    {
+      "identifier": "premier2122m24",
+      "name": "vs Leicester (1)",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "premier2122m24a1",
+      "name": "vs Leicester (2)",
+      "animated_sticker_pack": true,
+      "stickers": "7"
+    },
+    {
+      "identifier": "luisdiaz1",
+      "name": "Luis Diaz",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "facup2122f16",
+      "name": "vs Cardiff (1)",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "facup2122f16a1",
+      "name": "vs Cardiff (2)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "premier2122m23",
+      "name": "vs Crystal Palace (1)",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "premier2122m23a1",
+      "name": "vs Crystal Palace (2)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "carabao2122s1",
+      "name": "vs Arsenal",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "premier2122m22a1",
+      "name": "vs Brentford (2)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "premier2122m22",
+      "name": "vs Brentford (1)",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "team2022",
+      "name": "Team 2022",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "facup2122f32",
+      "name": "vs Shrewsbury",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "mohamedsalah1",
+      "name": "Mohamed Salah 1",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "carabao2122g4",
+      "name": "vs Leicester",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "premier2122m17",
+      "name": "vs Newcastle",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "premier2122m16",
+      "name": "vs Aston Villa",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "ufcl2122gp6",
+      "name": "vs Milan (2)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "premier2122m15",
+      "name": "vs Wolves",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "premier2122m14",
+      "name": "vs Everton",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "premier2122m13a1",
+      "name": "vs Southampton (2)",
+      "animated_sticker_pack": true,
+      "stickers": "8"
+    },
+    {
+      "identifier": "premier2122m13",
+      "name": "vs Southampton (1)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "ufcl2122gp5a1",
+      "name": "vs Porto (3)",
+      "animated_sticker_pack": true,
+      "stickers": "5"
+    },
+    {
+      "identifier": "ufcl2122gp5",
+      "name": "vs Porto (2)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "premier2122m12a1",
+      "name": "vs Arsenal (2)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "premier2122m12",
+      "name": "vs Arsenal (1)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "ufcl2122gp4",
+      "name": "vs Atletico Madrid (2)",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "carabao2122g8",
+      "name": "vs Preston",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "oleout",
+      "name": "Ole Out",
+      "animated_sticker_pack": false,
+      "stickers": "11"
+    },
+    {
+      "identifier": "premier2122m9a1",
+      "name": "vs Manchester United (2)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "premier2122m9",
+      "name": "vs Manchester United (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122gp3",
+      "name": "vs Atletico Madrid (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "premier2122m8",
+      "name": "vs Watford",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "gol2021",
+      "name": "Pack Gol 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122gp2",
+      "name": "vs Porto (1)",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "salah100goals",
+      "name": "Salah 100 Goals",
+      "animated_sticker_pack": false,
+      "stickers": "11"
+    },
+    {
+      "identifier": "carabao2122r3",
+      "name": "vs Norwich",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "premier2122m5",
+      "name": "vs Crystal Palace",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "ufcl2122gp1",
+      "name": "vs Milan (1)",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "premier2122m4",
+      "name": "vs Leeds",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "players2021",
+      "name": "Players 2021",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "premier2122m2",
+      "name": "vs Burnley",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "premier2122m1",
+      "name": "vs Norwich City",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "premier2020m38",
+      "name": "vs Crystal Palace",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "premier2020m37",
+      "name": "vs Burnley",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "premier2020m36",
+      "name": "vs West Brom",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "premier2020m34",
+      "name": "vs Manchester United",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "premier2020m35",
+      "name": "vs Southampton",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "klopp2",
+      "name": "J. Klopp",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "playersa4",
+      "name": "Players 4",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "playersa3",
+      "name": "Players 3",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "hillsborough",
+      "name": "Never Ever Forget",
+      "animated_sticker_pack": false,
+      "stickers": "8"
+    },
+    {
+      "identifier": "playersa2",
+      "name": "Players 2",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "playersa1",
+      "name": "Players 1",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "premier2020m31",
+      "name": "vs Aston Villa",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "club2",
+      "name": "Club Animated",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "thiagoalcantara",
+      "name": "Thiago Alcantara 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "premier2020m30",
+      "name": "vs Arsenal",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "premier2020m29",
+      "name": "vs Wolves",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "ufcl2021o2",
+      "name": "vs Leipzig (2)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "premier2020m26",
+      "name": "vs Sheffield United",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "ufcl2021o1",
+      "name": "vs Leipzig (1)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "premier2020m21",
+      "name": "vs West Ham",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "premier2020m20",
+      "name": "vs Tottenham",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "facup2020m32",
+      "name": "vs Aston Villa",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "newyear",
+      "name": "Happy New Year",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "premier2020m14",
+      "name": "vs Crystal Palace",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "premier2020m13",
+      "name": "vs Tottenham",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "premier2020m11",
+      "name": "vs Wolves",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "ufcl2021gp5",
+      "name": "vs Ajax",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "premier2020m9",
+      "name": "vs Leicester",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "ufcl2021gp3",
+      "name": "vs Atalanta",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "premier2020m7",
+      "name": "vs West Ham",
+      "animated_sticker_pack": false,
+      "stickers": "11"
+    },
+    {
+      "identifier": "ufcl2021gp2",
+      "name": "vs Midtjylland",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "premier2020m6",
+      "name": "vs Sheffield United",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "ufcl2021gp1",
+      "name": "vs Ajax",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "premier2020m3",
+      "name": "vs Arsenal",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "carabao2021g16",
+      "name": "Carabao vs Lincoln",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "premier2020m2",
+      "name": "vs Chelsea",
+      "animated_sticker_pack": false,
+      "stickers": "11"
+    },
+    {
+      "identifier": "premier2020m1",
+      "name": "vs Leeds United",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "shirt2020",
+      "name": "Pack Shirt 2020",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "premier2019m",
+      "name": "Pack Premier League (15)",
+      "animated_sticker_pack": false,
+      "stickers": "9"
+    },
+    {
+      "identifier": "premier2019l",
+      "name": "Pack Premier League (14)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "premier2019k",
+      "name": "Pack Premier League (13)",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "champion2020b",
+      "name": "Pack Champions 19-20 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "champion2020",
+      "name": "Pack Champions 19-20 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "premier2019j",
+      "name": "Pack Premier League (12)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "funeral",
+      "name": "Pack Meme Funeral",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "premier2019i",
+      "name": "Pack Premier League (11)",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.liverpool",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "premier2223m26a1",
+      "name": "vs Manchester United (3)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "premier2223m26a2",
+      "name": "vs Manchester United (4)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "premier2122m37a1",
+      "name": "vs Southampton (2)",
+      "animated_sticker_pack": true,
+      "stickers": "7"
+    },
+    {
+      "identifier": "facup2122wa1",
+      "name": "FA Cup Winner (1)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "facup2122wa2",
+      "name": "FA Cup Winner (2)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "playersa5",
+      "name": "Players 5",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "playersa6",
+      "name": "Players 6",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "ufcl2122s1a1",
+      "name": "vs Villareal (2)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "premier2122m34a1",
+      "name": "vs Everton (2)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "facup2122sa1",
+      "name": "vs City (2)",
+      "animated_sticker_pack": true,
+      "stickers": "8"
+    },
+    {
+      "identifier": "ufcl2122c1a1",
+      "name": "vs Benfica (2)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "premier2122m29a1",
+      "name": "vs Brighton (2)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "eflcup2122a1",
+      "name": "EFL Champions (3)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "eflcup2122a2",
+      "name": "EFL Champions (4)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "premier2122m26a1",
+      "name": "vs Norwich (2)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "kloppa1c",
+      "name": "Klopp (3)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "ufcl2122o1a1",
+      "name": "vs Inter (2)",
+      "animated_sticker_pack": true,
+      "stickers": "6"
+    },
+    {
+      "identifier": "premier2122m22a1",
+      "name": "vs Brentford (2)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "premier2122m13a1",
+      "name": "vs Southampton (2)",
+      "animated_sticker_pack": true,
+      "stickers": "8"
+    },
+    {
+      "identifier": "premier2122m12a1",
+      "name": "vs Arsenal (2)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "premier2122m9a1",
+      "name": "vs Manchester United (2)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "klopp2",
+      "name": "J. Klopp",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "playersa4",
+      "name": "Players 4",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "playersa3",
+      "name": "Players 3",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "playersa2",
+      "name": "Players 2",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "playersa1",
+      "name": "Players 1",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "club2",
+      "name": "Club Animated",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "thiagoalcantara",
+      "name": "Thiago Alcantara",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    }
+  ]
+}

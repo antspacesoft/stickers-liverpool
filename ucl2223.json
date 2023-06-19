@@ -1,0 +1,48 @@
+{
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.liverpool",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "ufcl2223gp6",
+      "name": "vs Napoli",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "ufcl2223gp5a",
+      "name": "vs Ajax (1)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "ufcl2223gp5b",
+      "name": "vs Ajax (2)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "ufcl2223gp4a",
+      "name": "vs Rangers (3)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "ufcl2223gp4b",
+      "name": "vs Rangers (2)",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "ufcl2223gp3",
+      "name": "vs Rangers (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223gp2",
+      "name": "vs Ajax",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    }
+  ]
+}

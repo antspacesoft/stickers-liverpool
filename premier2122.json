@@ -1,0 +1,252 @@
+{
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.liverpool",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "premier2122m38",
+      "name": "vs Wolves",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "premier2122m37",
+      "name": "vs Southampton (1)",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "premier2122m37a1",
+      "name": "vs Southampton (2)",
+      "animated_sticker_pack": true,
+      "stickers": "7"
+    },
+    {
+      "identifier": "premier2122m33",
+      "name": "vs Aston Villa",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "premier2122m36",
+      "name": "vs Tottenham",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "premier2122m35",
+      "name": "vs Newcastle",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "premier2122m34",
+      "name": "vs Everton (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "premier2122m34a1",
+      "name": "vs Everton (2)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "premier2122m30",
+      "name": "vs Manchester United",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "premier2122m30a1",
+      "name": "vs Manchester United (1)",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "premier2122m32",
+      "name": "vs Manchester City",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "premier2122m31",
+      "name": "vs Watford",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "premier2122m27",
+      "name": "vs Arsenal",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "premier2122m29",
+      "name": "vs Brighton (1)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "premier2122m29a1",
+      "name": "vs Brighton (2)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "premier2122m28",
+      "name": "vs West Ham",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "premier2122m19",
+      "name": "vs Leeds",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "premier2122m26",
+      "name": "vs Norwich (1)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "premier2122m26a1",
+      "name": "vs Norwich (2)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "premier2122m25",
+      "name": "vs Burnley",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "premier2122m24",
+      "name": "vs Leicester (1)",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "premier2122m24a1",
+      "name": "vs Leicester (2)",
+      "animated_sticker_pack": true,
+      "stickers": "7"
+    },
+    {
+      "identifier": "premier2122m23",
+      "name": "vs Crystal Palace (1)",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "premier2122m23a1",
+      "name": "vs Crystal Palace (2)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "premier2122m22a1",
+      "name": "vs Brentford (2)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "premier2122m22",
+      "name": "vs Brentford (1)",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "premier2122m17",
+      "name": "vs Newcastle",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "premier2122m16",
+      "name": "vs Aston Villa",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "premier2122m15",
+      "name": "vs Wolves",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "premier2122m14",
+      "name": "vs Everton",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "premier2122m13a1",
+      "name": "vs Southampton (2)",
+      "animated_sticker_pack": true,
+      "stickers": "8"
+    },
+    {
+      "identifier": "premier2122m13",
+      "name": "vs Southampton (1)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "premier2122m12a1",
+      "name": "vs Arsenal (2)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "premier2122m12",
+      "name": "vs Arsenal (1)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "premier2122m9a1",
+      "name": "vs Manchester United (2)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "premier2122m9",
+      "name": "vs Manchester United (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "premier2122m8",
+      "name": "vs Watford",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "premier2122m5",
+      "name": "vs Crystal Palace",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "premier2122m4",
+      "name": "vs Leeds",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "premier2122m2",
+      "name": "vs Burnley",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "premier2122m1",
+      "name": "vs Norwich City",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    }
+  ]
+}
