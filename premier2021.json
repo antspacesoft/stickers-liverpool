@@ -1,0 +1,126 @@
+{
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.liverpool",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "premier2021m38",
+      "name": "vs Crystal Palace",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "premier2021m37",
+      "name": "vs Burnley",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "premier2021m36",
+      "name": "vs West Brom",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "premier2021m34",
+      "name": "vs Manchester United",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "premier2021m35",
+      "name": "vs Southampton",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "premier2021m31",
+      "name": "vs Aston Villa",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "premier2021m30",
+      "name": "vs Arsenal",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "premier2021m29",
+      "name": "vs Wolves",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "premier2021m26",
+      "name": "vs Sheffield United",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "premier2021m21",
+      "name": "vs West Ham",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "premier2021m20",
+      "name": "vs Tottenham",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "premier2021m14",
+      "name": "vs Crystal Palace",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "premier2021m13",
+      "name": "vs Tottenham",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "premier2021m11",
+      "name": "vs Wolves",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "premier2021m9",
+      "name": "vs Leicester",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "premier2021m7",
+      "name": "vs West Ham",
+      "animated_sticker_pack": false,
+      "stickers": "11"
+    },
+    {
+      "identifier": "premier2021m6",
+      "name": "vs Sheffield United",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "premier2021m3",
+      "name": "vs Arsenal",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "premier2021m2",
+      "name": "vs Chelsea",
+      "animated_sticker_pack": false,
+      "stickers": "11"
+    },
+    {
+      "identifier": "premier2021m1",
+      "name": "vs Leeds United",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    }
+  ]
+}
