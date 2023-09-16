@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "premier2324m5a",
+      "name": "vs Wolves (1)",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "premier2324m5b",
+      "name": "vs Wolves (2)",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
       "identifier": "premier2324m4a",
       "name": "vs Aston Villa (1)",
       "animated_sticker_pack": false,
