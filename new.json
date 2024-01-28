@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "facup2324f16a",
+      "name": "vs Norwich (1)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "facup2324f16b",
+      "name": "vs Norwich (2)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
       "identifier": "eflcup2324s2",
       "name": "vs Fulham (2)",
       "animated_sticker_pack": false,
