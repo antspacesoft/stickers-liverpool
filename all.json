@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"premier2425m17a",
+         "name":"vs Tottenham (1)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"premier2425m17b",
+         "name":"vs Tottenham (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
          "identifier":"eflcup2425c1",
          "name":"vs Southampton",
          "animated_sticker_pack":false,
