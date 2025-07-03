@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier": "diogojotarip1",
+         "name": "Diogo Jota Rip",
+         "animated_sticker_pack": false,
+         "stickers": "9"
+      },
+      {
+         "identifier":"diogojota1",
+         "name":"Diogo Jota (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"diogojota2",
+         "name":"Diogo Jota (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"premier2425w1",
          "name":"Champions Premier 24-25",
          "animated_sticker_pack":false,
@@ -1509,12 +1527,6 @@
          "stickers":"26"
       },
       {
-         "identifier":"diogojota2",
-         "name":"Diogo Jota 2",
-         "animated_sticker_pack":false,
-         "stickers":"30"
-      },
-      {
          "identifier":"alexoxladechamberlain1",
          "name":"Alex Oxlade-Chamberlain",
          "animated_sticker_pack":false,
@@ -1733,12 +1745,6 @@
       {
          "identifier":"alissonbecker1",
          "name":"Alisson Becker 1",
-         "animated_sticker_pack":false,
-         "stickers":"30"
-      },
-      {
-         "identifier":"diogojota1",
-         "name":"Diogo Jota",
          "animated_sticker_pack":false,
          "stickers":"30"
       },
