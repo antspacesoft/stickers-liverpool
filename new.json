@@ -3,17 +3,29 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"premier2526m3",
+         "name":"vs Arsenal",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },       
+      {
          "identifier":"premier2526m2",
          "name":"vs Newcastle",
          "animated_sticker_pack":false,
          "stickers":"23"
       },
       {
-         "identifier":"kit2526a",
-         "name":"Home Kit 25-26",
-         "animated_sticker_pack":false,
-         "stickers":"22"
+         "identifier": "kit2526a",
+         "name": "Kit Home 25-26",
+         "animated_sticker_pack": false,
+         "stickers": "30"
       },
+      {
+         "identifier": "kit2526b",
+         "name": "Kit Away 25-26",
+         "animated_sticker_pack": false,
+         "stickers": "30"
+      },    
       {
          "identifier":"premier2526m1",
          "name":"vs Bournemouth",
