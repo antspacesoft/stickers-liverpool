@@ -3,11 +3,17 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier": "eflcup2526f16",
+         "name": "vs Southampton",
+         "animated_sticker_pack": false,
+         "stickers": "25"
+      },      
+      {
          "identifier": "team2025",
          "name": "Team 2025-26",
          "animated_sticker_pack": false,
          "stickers": "24"
-      },      
+      },
       {
          "identifier":"premier2526m5",
          "name":"vs Everton",
