@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
      {
+        "identifier":"facup2526f32",
+        "name":"vs Barnsley",
+        "animated_sticker_pack":false,
+        "stickers":"21"
+     },
+     {
         "identifier":"newyear3",
         "name":"Happy New Year (3)",
         "animated_sticker_pack":false,
