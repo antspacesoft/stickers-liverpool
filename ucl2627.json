@@ -3,6 +3,30 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ucl2627polaroid4",
+         "name":"Polaroid UCL (4)",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"ucl2627polaroid3",
+         "name":"Polaroid UCL (3)",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"ucl2627polaroid2",
+         "name":"Polaroid UCL (2)",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"ucl2627polaroid1",
+         "name":"Polaroid UCL (1)",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
          "identifier":"ucl2627f1",
          "name":"vs Atletico Madrid",
          "animated_sticker_pack":false,
