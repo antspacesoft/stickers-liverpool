@@ -1,25 +1,49 @@
 {
-  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.liverpool",
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.antspace.stickers.liverpool",
   "ios_app_store_link": "",
   "sticker_packs": [
+    {
+      "identifier": "ucl2627liverpoolportraits4",
+      "name": "UCL 26-27 Portrait (4)",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "ucl2627liverpoolportraits3",
+      "name": "UCL 26-27 Portrait (3)",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "ucl2627liverpoolportraits2",
+      "name": "UCL 26-27 Portrait (2)",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "ucl2627liverpoolportraits1",
+      "name": "UCL 26-27 Portrait (1)",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
     {
       "identifier": "kit2627c",
       "name": "Third Kit 26-27",
       "animated_sticker_pack": false,
       "stickers": "21"
-    },      
+    },
     {
       "identifier": "kit2627a",
       "name": "Home Kit 26-27",
       "animated_sticker_pack": false,
       "stickers": "20"
-    },      
+    },
     {
       "identifier": "kit2627b",
       "name": "Away Kit 26-27",
       "animated_sticker_pack": false,
       "stickers": "20"
-    },      
+    },
     {
       "identifier": "goala1",
       "name": "Animated Goal 1",
@@ -43,7 +67,7 @@
       "name": "Away Kit 25-26",
       "animated_sticker_pack": false,
       "stickers": "30"
-    },    
+    },
     {
       "identifier": "kit2425c",
       "name": "Kit Third 24-25",
