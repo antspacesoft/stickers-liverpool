@@ -3,10 +3,16 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
-         "identifier":"premier2627f8",
-         "name":"vs Brighton",
-         "animated_sticker_pack":false,
-         "stickers":"18"
+       "identifier":"eflcup2627f8",
+       "name":"vs Chelsea",
+       "animated_sticker_pack":false,
+       "stickers":"21"
+    },
+    {
+       "identifier":"premier2627f8",
+       "name":"vs Brighton",
+       "animated_sticker_pack":false,
+       "stickers":"18"
     },
     {
       "identifier":"ucl2627f3",
